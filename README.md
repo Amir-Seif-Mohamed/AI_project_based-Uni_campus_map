@@ -20,7 +20,7 @@ This project utilizes various searching algorithms to find optimal paths within 
 
    - Clone the repository to your local machine:
      ```
-      https://github.com/Amir-Seif-Mohamed/AI_project_based-Uni_campus_map.git
+      git clone https://github.com/Amir-Seif-Mohamed/AI_project_based-Uni_campus_map.git
      ```
    - Navigate to the project directory.
 
