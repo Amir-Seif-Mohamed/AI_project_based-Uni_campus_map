@@ -42,6 +42,8 @@ This project utilizes various searching algorithms to find optimal paths within 
    - After providing the necessary information, click on the "Find Path" button.
 
    - The GUI will display the recommended path, and you can follow the directions provided.
+   - ![image](https://github.com/Amir-Seif-Mohamed/AI_project_based-Uni_campus_map/assets/72971854/714f6f70-aa3e-4e18-bdb4-0e0f04a749ed)
+
 
 ## Algorithms
 
